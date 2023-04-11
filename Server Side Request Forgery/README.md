@@ -205,6 +205,7 @@ $google = ""
 
 ```powershell
 http://1.1.1.1 &@2.2.2.2# @3.3.3.3/
+http://1.1.1.1@2.2.2.2#
 urllib2 : 1.1.1.1
 requests + browsers : 2.2.2.2
 urllib : 3.3.3.3
